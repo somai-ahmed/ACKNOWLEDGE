@@ -1,261 +1,270 @@
-# 💰 Finance Knowledge
+# 💰 Branche Finance
 
-> Learning accounting and finance fundamentals to build better financial software, ERP systems, and FinTech solutions.
-
----
-
-## 📖 About
-
-This section documents my journey to understand the foundations of financial systems, from accounting principles to advanced quantitative finance.
-
-The objective is not only to learn finance as a business domain, but also to understand how financial knowledge can be transformed into:
-
-* Financial software
-* ERP systems
-* Accounting engines
-* Data-driven financial applications
-* FinTech solutions
+> Apprendre les fondamentaux de la comptabilité et de la finance afin de concevoir de meilleurs logiciels financiers, systèmes ERP et solutions FinTech.
 
 ---
 
-# 🎯 Learning Philosophy
+# 📖 À propos
 
-Finance is both a **business language** and a **technical system**.
+Cette section documente mon parcours d'apprentissage dans le domaine de la finance, depuis les bases de la comptabilité jusqu'aux concepts avancés de la finance quantitative.
 
-The learning process follows:
+L'objectif n'est pas seulement d'apprendre la finance comme une discipline économique, mais aussi de comprendre comment transformer ces connaissances en systèmes informatiques capables de répondre aux besoins réels des entreprises.
+
+Cette branche explore l'intersection entre :
+
+* Finance
+* Informatique
+* Données
+* Intelligence artificielle
+* Ingénierie logicielle
+
+---
+
+# 🎯 Philosophie d'apprentissage
+
+La finance est à la fois :
+
+* Un langage utilisé par les entreprises pour décrire leur activité.
+* Un ensemble de règles permettant de modéliser les flux économiques.
+* Un domaine pouvant être transformé en systèmes logiciels.
+
+Le processus d'apprentissage suit :
 
 ```text
-Financial Concepts
+Concepts financiers
         |
         v
-Understanding Business Rules
+Compréhension des règles métier
         |
         v
-Modeling Data & Processes
+Modélisation des données et processus
         |
         v
-Building Financial Systems
+Développement de systèmes financiers
         |
         v
-Creating FinTech Solutions
+Création de solutions FinTech
 ```
 
 ---
 
-# 📚 Learning Roadmap
+# 📚 Parcours d'apprentissage
 
-## 01 - Accounting Foundations
+## 01 - Fondamentaux de la comptabilité
 
-Understanding the language of business.
+Comprendre le langage des entreprises.
 
-Topics:
+### Concepts étudiés :
 
-* Accounting principles
-* Accounting cycle
-* Double-entry bookkeeping
-* Chart of accounts
-* Journal entries
-* General ledger
-* Trial balance
+* Principes comptables
+* Cycle comptable
+* Partie double
+* Plan comptable
+* Écritures comptables
+* Journal comptable
+* Grand livre
+* Balance comptable
 
-Core concepts:
+### Concepts fondamentaux :
 
-* Assets
-* Liabilities
-* Equity
-* Revenue
-* Expenses
+* Actifs
+* Passifs
+* Capitaux propres
+* Produits
+* Charges
 
-Fundamental equation:
+Équation fondamentale :
 
+```text
+Actifs = Passifs + Capitaux propres
 ```
-Assets = Liabilities + Equity
-```
 
 ---
 
-## 02 - Financial Statements
+# 02 - États financiers
 
-Learning how companies communicate financial information.
+Comprendre comment les entreprises présentent leur situation financière.
 
-Topics:
+### Concepts étudiés :
 
-* Balance Sheet
-* Income Statement
-* Cash Flow Statement
-* Financial reporting
-* Financial analysis
-
----
-
-## 03 - Managerial Accounting
-
-Understanding how businesses make decisions.
-
-Topics:
-
-* Cost accounting
-* Fixed and variable costs
-* Budgeting
-* Break-even analysis
-* Performance measurement
+* Bilan comptable
+* Compte de résultat
+* Tableau des flux de trésorerie
+* Analyse financière
+* Lecture des rapports financiers
 
 ---
 
-## 04 - Corporate Finance
+# 03 - Comptabilité de gestion
 
-Understanding financial decision-making.
+Comprendre comment les entreprises prennent leurs décisions internes.
 
-Topics:
+### Concepts étudiés :
 
-* Time value of money
-* Capital budgeting
-* Risk and return
-* Cost of capital
-* Company valuation
-
----
-
-## 05 - Financial Markets & Investments
-
-Understanding how financial markets operate.
-
-Topics:
-
-* Stocks
-* Bonds
-* Derivatives
-* Portfolio management
-* Market analysis
+* Comptabilité analytique
+* Coûts fixes et variables
+* Budgétisation
+* Seuil de rentabilité
+* Analyse de performance
 
 ---
 
-## 06 - Quantitative Finance
+# 04 - Finance d'entreprise
 
-Combining mathematics, programming, and finance.
+Comprendre les décisions financières stratégiques.
 
-Topics:
+### Concepts étudiés :
 
-* Probability
-* Statistics
-* Financial modeling
-* Risk management
-* Algorithmic trading concepts
-* Quantitative strategies
-
----
-
-## 07 - FinTech & Financial Systems Engineering
-
-Connecting finance with technology.
-
-Topics:
-
-* ERP architecture
-* Accounting software design
-* Banking systems
-* Payment systems
-* Financial APIs
-* Data analytics
-* AI in finance
+* Valeur temps de l'argent
+* Investissements
+* Rentabilité
+* Risque financier
+* Coût du capital
+* Évaluation d'entreprise
 
 ---
 
-# 🏗️ Practical Projects
+# 05 - Marchés financiers et investissements
 
-Projects developed from financial knowledge:
+Comprendre le fonctionnement des marchés.
 
-## 📊 Accounting System
+### Concepts étudiés :
 
-Building a simplified accounting engine:
+* Actions
+* Obligations
+* Produits financiers
+* Gestion de portefeuille
+* Analyse des marchés
 
-* Chart of accounts
-* Transactions
-* Journal
-* General ledger
-* Financial statements generator
+---
 
-Technologies:
+# 06 - Finance quantitative
+
+Combiner mathématiques, programmation et finance.
+
+### Concepts étudiés :
+
+* Probabilités
+* Statistiques financières
+* Modélisation financière
+* Gestion des risques
+* Stratégies quantitatives
+* Finance algorithmique
+
+---
+
+# 07 - FinTech et ingénierie des systèmes financiers
+
+Créer des solutions technologiques pour la finance.
+
+### Concepts étudiés :
+
+* Architecture ERP
+* Logiciels comptables
+* Systèmes bancaires
+* Systèmes de paiement
+* API financières
+* Analyse de données financières
+* Intelligence artificielle appliquée à la finance
+
+---
+
+# 🏗️ Projets pratiques
+
+## 📊 Système comptable
+
+Création d'un moteur comptable simplifié :
+
+Fonctionnalités :
+
+* Gestion du plan comptable
+* Gestion des comptes
+* Enregistrement des transactions
+* Génération du journal
+* Génération du grand livre
+* Production des états financiers
+
+Technologies possibles :
 
 * C
 * Python
-* Databases
+* Bases de données
 
 ---
 
-## 📈 Financial Analysis Tools
+## 📈 Outils d'analyse financière
 
-Examples:
+Création d'outils permettant :
 
-* Company analysis
-* Financial indicators
-* Data visualization
-* Portfolio analysis
-
----
-
-## 🤖 AI + Finance Applications
-
-Exploring:
-
-* Financial prediction models
-* Intelligent assistants
-* Automated reporting
-* Financial data analysis
+* Analyse d'entreprises
+* Calcul d'indicateurs financiers
+* Visualisation de données
+* Analyse de portefeuille
 
 ---
 
-# 🗂️ Structure
+## 🤖 Intelligence artificielle et Finance
+
+Exploration de :
+
+* Modèles prédictifs financiers
+* Assistants financiers intelligents
+* Automatisation des rapports
+* Analyse intelligente des données financières
+
+---
+
+# 🗂️ Structure de la branche
 
 ```text
 Finance/
 
-├── Accounting/
-│   ├── Fundamentals/
-│   ├── Double_Entry/
-│   ├── Financial_Statements/
-│   └── Projects/
+├── Comptabilite/
+│   ├── Fondamentaux/
+│   ├── Partie_Double/
+│   ├── Etats_Financiers/
+│   └── Projets/
 │
-├── Corporate_Finance/
+├── Finance_Entreprise/
 │
-├── Financial_Markets/
+├── Marches_Financiers/
 │
-├── Quantitative_Finance/
+├── Finance_Quantitative/
 │
 ├── FinTech/
 │
-└── Projects/
+└── Projets/
 ```
 
 ---
 
 # 🌱 Vision
 
-The goal is to become capable of designing systems where:
+L'objectif est de développer une compréhension permettant de construire des systèmes à l'intersection de :
 
 ```text
 Finance
    +
-Computer Science
+Informatique
    +
-Data
+Données
    +
-Artificial Intelligence
+Intelligence Artificielle
         |
         v
-   Financial Technology
+Solutions FinTech
 ```
 
-Understanding finance allows engineers to build better solutions for businesses and financial institutions.
+Comprendre la finance permet aux ingénieurs de créer des solutions technologiques adaptées aux besoins réels des entreprises.
 
 ---
 
-## 📌 Current Focus
+# 📌 Progression actuelle
 
-* [x] Accounting fundamentals
-* [ ] Financial statements
-* [ ] Corporate finance
-* [ ] Financial modeling
-* [ ] Quantitative finance
-* [ ] FinTech architecture
-* [ ] AI applications in finance
+* [x] Fondamentaux de la comptabilité
+* [ ] États financiers
+* [ ] Finance d'entreprise
+* [ ] Modélisation financière
+* [ ] Finance quantitative
+* [ ] Architecture FinTech
+* [ ] Intelligence artificielle appliquée à la finance
